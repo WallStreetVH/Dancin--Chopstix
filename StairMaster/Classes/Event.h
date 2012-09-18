@@ -18,6 +18,7 @@
 	NSString *category; // subID
 	NSString *category2; // N/A
     NSString *image; // user or provider image
+    int tio;
 
 }
 
